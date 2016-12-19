@@ -1,7 +1,7 @@
 
 
 
-// git update test vv
+// git update test 12/18
 #define numRelays 8
 #define maxRelayTime 3600000	// 1 hour in mills
 #define pollRate 100			// minimum ms between pulse measurments
